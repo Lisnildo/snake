@@ -1,5 +1,6 @@
 # snake
 Jogo da cobrinha
 Professora Gabriela Pinheiro
-https://www.linkedin.com/in/gabrielapinheiro129/
-https://github.com/SpruceGabriela
+
+Linkedin-> https://www.linkedin.com/in/gabrielapinheiro129/
+Github-> https://github.com/SpruceGabriela
